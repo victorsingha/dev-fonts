@@ -1,1 +1,1 @@
-# Use the Light Italic in Operator Mono - victor_baba
+# Use the Light Italic in Operator Mono Lig.
